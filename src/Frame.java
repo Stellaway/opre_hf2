@@ -21,5 +21,4 @@ public class Frame {
     public void releaseFrozen()             { frozen = 0; }
     public char getLetter()                 { return letter; }
 
-    //public void setFrozen(int n){ frozen = n; }
 }
